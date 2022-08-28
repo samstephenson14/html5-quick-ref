@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  max-width: 1920px;
+  margin: auto;
+}
+table, th, td {
+  text-align: left;
+  background-color: lightgrey;
+  border-color: black;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+body {
+  background-color: dimgrey;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.highlight {
+  background-color: aqua;
+}
